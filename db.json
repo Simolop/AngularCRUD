@@ -1,11 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
       "id": 2,
       "firstName": "Alex",
       "lastName": "Carry",
@@ -28,6 +23,14 @@
       "email": "lilyc@gmail.com",
       "mobile": "4993929992",
       "salary": "60,000"
+    },
+    {
+      "id": 5,
+      "firstName": "Sam",
+      "lastName": "Force",
+      "email": "SamFo@gmail.com",
+      "mobile": "22332020939",
+      "salary": "55,000"
     }
   ],
   "comments": [
